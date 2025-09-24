@@ -1,0 +1,6 @@
+streamlit
+pandas
+fitparse
+geopy
+numpy
+plotly
